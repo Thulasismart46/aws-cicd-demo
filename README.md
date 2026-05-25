@@ -26,6 +26,3 @@ GitHub Repository → CodePipeline → CodeBuild → S3 Artifact Storage
 * GitHub integration
 * Continuous Integration workflow
 
-## Author
-
-Thulasiraman
